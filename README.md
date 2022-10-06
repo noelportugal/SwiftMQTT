@@ -6,6 +6,7 @@ MQTT Client
 [![Version](https://img.shields.io/cocoapods/v/SwiftMQTT.svg?style=flat)](http://cocoapods.org/pods/SwiftMQTT)
 [![License](https://img.shields.io/cocoapods/l/SwiftMQTT.svg?style=flat)](http://cocoapods.org/pods/SwiftMQTT)
 
+* Based on [https://github.com/aciidb0mb3r/SwiftMQTT](https://github.com/aciidb0mb3r/SwiftMQTT)
 * Fully written in Swift 4
 * Robust error handling
 * Performant
