@@ -112,14 +112,14 @@ end
 ### Carthage
 
 ```
-github "aciidb0mb3r/SwiftMQTT"
+github "noelportugal/SwiftMQTT"
 ```
 
 ### Swift Package Manager
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/aciidb0mb3r/SwiftMQTT.git", from: "3.0.0")
+    .package(url: "https://github.com/noelportugal/SwiftMQTT.git", from: "3.0.0")
 ]
 ```
 ## License

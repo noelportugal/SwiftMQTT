@@ -8,10 +8,10 @@ Pod::Spec.new do |s|
     MQTT Client in Swift 4.1 based on MQTT Version 3.1.1
     DESC
     
-    s.homepage     = "https://github.com/aciidb0mb3r/SwiftMQTT"
+    s.homepage     = "https://github.com/noelportugal/SwiftMQTT"
     s.license      = { :type => "MIT", :file => "LICENSE" }
     s.author       = { "Ankit Agarwal" => "ankit.spd@gmail.com" }
-    s.source       = { :git => "https://github.com/aciidb0mb3r/SwiftMQTT.git", :tag => s.version.to_s }
+    s.source       = { :git => "https://github.com/noelportugal/SwiftMQTT.git", :tag => s.version.to_s }
     
     s.swift_version = "4.1"
 
